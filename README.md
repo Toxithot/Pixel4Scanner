@@ -1,3 +1,5 @@
+updated to compile on Android Studio Giraffe as of May 23 2023
+
 # Pixel4Scanner
 
 App creates a point cloud and vertices mesh by using the Google Pixel's IR camera.
